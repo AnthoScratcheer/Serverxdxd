@@ -48,3 +48,11 @@
 [29Jun2025 17:59:26.273] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6982 ms
 [29Jun2025 17:59:26.276] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.814s)! For help, type "help"
 [29Jun2025 17:59:26.314] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[29Jun2025 18:20:06.022] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fc3b0f3[id=<null>,name=SebasNashe2009,properties={},legacy=false] (/127.41.10.247:42941) lost connection: Disconnected
+[29Jun2025 18:21:06.017] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3afe1a2a[id=<null>,name=SebasNashe2009,properties={},legacy=false] (/127.41.10.247:43257) lost connection: Disconnected
+[29Jun2025 18:21:13.367] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cba49bf[id=<null>,name=SebasNashe2009,properties={},legacy=false] (/127.41.10.247:48891) lost connection: Disconnected
+[29Jun2025 18:22:17.717] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73785882[id=<null>,name=SebasNashe2009,properties={},legacy=false] (/127.41.10.247:52723) lost connection: Disconnected
+[29Jun2025 18:22:22.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SebasNashe2009[/127.41.10.247:54099] logged in with entity id 146 at (397.43962749898066, 23.0, -199.3992867488372)
+[29Jun2025 18:22:22.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SebasNashe2009 joined the game
+[29Jun2025 18:22:35.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SebasNashe2009> bartolo chipi
+[29Jun2025 18:25:34.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SebasNashe2009 has made the advancement [Voluntary Exile]
