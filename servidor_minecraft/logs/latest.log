@@ -58,3 +58,4 @@
 [29Jun2025 20:35:54.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BARTOLOZZZ joined the game
 [29Jun2025 20:35:54.965] [Server thread/INFO] [Jade/]: Syncing config to BARTOLOZZZ (0c6b45b7-09c1-3b69-8658-aa8cd6146318)
 [29Jun2025 20:36:02.197] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/331, l='ServerLevel[world]', x=848.02, y=82.79, z=-286.47]
+[29Jun2025 20:52:44.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BARTOLOZZZ has made the advancement [Hot Stuff]
