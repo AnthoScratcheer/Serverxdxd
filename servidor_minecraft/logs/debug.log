@@ -708,3 +708,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 20:12:31.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 20:12:31.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Jun2025 20:14:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BARTOLOZZZ has made the advancement [Monster Hunter]
+[29Jun2025 20:17:31.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 20:17:31.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:19:29.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BARTOLOZZZ has made the advancement [Not Today, Thank You]
+[29Jun2025 20:22:31.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 20:22:31.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:26:44.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BARTOLOZZZ has made the advancement [Take Aim]
