@@ -703,3 +703,8 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Jun2025 20:01:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BARTOLOZZZ> E
 [29Jun2025 20:02:31.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Jun2025 20:02:31.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:07:31.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 20:07:31.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:12:31.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jun2025 20:12:31.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jun2025 20:14:23.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BARTOLOZZZ has made the advancement [Monster Hunter]
