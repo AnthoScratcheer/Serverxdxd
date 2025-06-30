@@ -8,11 +8,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2025-06-29 22:10:11 +0000",
+      "minecraft:windswept_hills": "2025-06-30 00:06:16 +0000",
       "minecraft:beach": "2025-06-29 19:48:41 +0000",
       "minecraft:river": "2025-06-29 19:52:27 +0000",
       "minecraft:dripstone_caves": "2025-06-29 20:01:36 +0000",
+      "minecraft:swamp": "2025-06-30 00:06:52 +0000",
       "minecraft:forest": "2025-06-29 19:48:51 +0000",
       "minecraft:ocean": "2025-06-29 22:09:16 +0000",
+      "minecraft:jungle": "2025-06-30 00:15:36 +0000",
+      "minecraft:flower_forest": "2025-06-30 00:07:44 +0000",
+      "minecraft:savanna": "2025-06-30 00:07:48 +0000",
       "minecraft:plains": "2025-06-29 19:52:13 +0000"
     },
     "done": false
@@ -400,6 +405,7 @@
       "cooked_porkchop": "2025-06-29 19:56:32 +0000",
       "cooked_mutton": "2025-06-29 20:11:46 +0000",
       "cooked_beef": "2025-06-29 20:05:55 +0000",
+      "bread": "2025-06-30 00:08:38 +0000",
       "rotten_flesh": "2025-06-29 20:39:42 +0000",
       "cooked_chicken": "2025-06-29 23:08:13 +0000",
       "carrot": "2025-06-29 20:21:22 +0000"
@@ -1458,12 +1464,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-06-29 23:11:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-29 23:11:18 +0000"
@@ -1497,12 +1497,6 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-29 23:11:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-06-29 23:11:23 +0000"
     },
     "done": true
   },
@@ -1545,6 +1539,48 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-06-29 23:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-06-29 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-06-29 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-06-29 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2025-06-29 23:39:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-30 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-30 00:08:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_the_recipe": "2025-06-30 00:08:34 +0000"
     },
     "done": true
   },
