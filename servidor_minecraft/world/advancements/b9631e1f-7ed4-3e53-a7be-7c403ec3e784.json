@@ -1187,24 +1187,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/melon_seeds": {
-    "criteria": {
-      "has_melon": "2025-06-30 00:17:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glistering_melon_slice": {
-    "criteria": {
-      "has_melon": "2025-06-30 00:17:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/melon": {
-    "criteria": {
-      "has_melon": "2025-06-30 00:17:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-06-30 00:09:02 +0000"
@@ -1214,12 +1196,6 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-30 00:15:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2025-06-30 00:25:41 +0000"
     },
     "done": true
   },
@@ -1238,6 +1214,54 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-06-30 00:16:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-06-30 00:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-06-30 00:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-06-30 00:17:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-30 00:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-06-30 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-06-30 00:41:33 +0000"
     },
     "done": true
   },
